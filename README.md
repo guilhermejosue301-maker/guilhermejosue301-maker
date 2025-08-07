@@ -1,7 +1,6 @@
 # 👋 Oi! Eu sou o Guilherme Josué
 
-Seja bem-vindo ao meu GitHub 😄  
-Aqui você vai encontrar meus projetos, estudos e experiências com programação  🐍
+Seja bem-vindo ao meu GitHub 😄
 
 ## 💻 Sobre mim
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS)
@@ -18,17 +17,11 @@ Aqui você vai encontrar meus projetos, estudos e experiências com programaçã
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />
-  <img 
-      align="left" 
-      alt="JavaScript" 
-      itle="JavaScript"
-      width="30px" 
-      style="padding-right: 10px;" 
-      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"
-  />
-
 <br/>
 <br/>
 
 ## 📫 Como falar comigo:
 - "[LinkedIn](https://www.linkedin.com/in/guilherme-josu%C3%A9-62405934b/)
+- "[Instagram]([https://www.instagram.com/](https://www.instagram.com/guilherme.josue/)
+
+- “A melhor forma de aprender é construindo.” 🚀
