@@ -3,9 +3,10 @@
 Seja bem-vindo ao meu GitHub 😄
 
 ## 💻 Sobre mim
-- Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- Gosto de aprender criando coisas novas
-- Começando com projetos simples e sempre buscando melhorar
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+🛠️ Apaixonado por tecnologia, programação e soluções criativas  
+🚀 Gosto de aprender na prática, criando projetos e testando ideias  
+📈 Sempre buscando evoluir e escrever códigos melhores
 
 ## 🧠 Tecnologias que uso/estudo:
 
