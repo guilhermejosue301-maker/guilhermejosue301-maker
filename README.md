@@ -22,7 +22,7 @@ Seja bem-vindo ao meu GitHub 😄
 <br/>
 
 ## 💡 Projetos
-   Aqui estão alguns dos meus projetos:
+    Aqui estão alguns dos meus projetos:
 
    
 ## 📫 Como falar comigo:
