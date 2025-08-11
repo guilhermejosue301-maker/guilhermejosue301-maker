@@ -23,7 +23,7 @@ Seja bem-vindo ao meu GitHub 😄
 
 ## 💡 Projetos
     Aqui estão alguns dos meus projetos:
-- "[Calculadora simples]([https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/blob/main/Projeto/projetocalculadora.py](https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/tree/main/Projeto))
+- "[Calculadora simples]([https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/blob/main/Projeto/projetocalculadora.py](https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/tree/main/Projeto)
 
    
 ## 📫 Como falar comigo:
