@@ -1,0 +1,37 @@
+# 📟 Calculadora Simples em Python
+
+Este é um projeto de uma calculadora simples, desenvolvida em Python, com o objetivo de praticar conceitos básicos de programação, como variáveis, funções, condicionais e entrada de dados.
+
+#🎯 Objetivo
+
+O projeto tem como principal finalidade consolidar os conhecimentos iniciais de Python, através da criação de um programa que realiza contas de matemáticas básicas:
+
+- Adição
+- Subtração
+- Multiplicação
+- Divisão
+
+#🛠️ Tecnologias Utilizadas
+
+- Python
+- Editor de código: VSCode
+
+#✅ Funcionalidades
+
+- Interface simples via linha de comando (CLI)
+- Solicita ao usuário dois números e a operação desejada
+- Exibe o resultado da operação
+- Verifica divisões por zero
+- Permite múltiplos cálculos até o usuário decidir sair
+
+#📚 O que eu aprendi
+ 
+Durante o desenvolvimento deste projeto, aprendi e pratiquei:
+
+- Como receber entrada do usuário com `input()`
+- Como converter strings para números (`int()` e `float()`)
+- Uso de funções para organizar o código
+- Estruturas condicionais (`if`, `elif`, `else`)
+- Laços de repetição (`while`)
+- Como tratar erros simples (ex: divisão por zero)
+- A importância de escrever um código limpo e legível
