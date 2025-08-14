@@ -34,3 +34,9 @@ Durante o desenvolvimento deste projeto, aprendi e pratiquei:
 - Laços de repetição 
 - Como tratar erros simples (ex: divisão por zero)
 - A importância de escrever um código limpo e legível
+
+#✅ Como usar:
+
+-Copie esse código para um arquivo .py
+-Execute no terminal com python calculadora.py 
+-Escolha a operação e insira os números quando solicitado.
