@@ -1,14 +1,14 @@
-# 👋 Oi! Eu sou o Guilherme Josué
+# Oi! Eu sou o Guilherme Josué
 
-Seja bem-vindo ao meu GitHub 😄
+Seja bem-vindo ao meu GitHub.
 
-## 💻 Sobre mim
+## Sobre mim
 - Estudante de Análise e Desenvolvimento de Sistemas (ADS)
 - Apaixonado por tecnologia, programação e soluções criativas  
 - Gosto de aprender na prática, criando projetos e testando ideias  
 - Sempre buscando evoluir e escrever códigos melhores
 
-## 🧠 Tecnologias que uso/estudo:
+## Tecnologias que uso/estudo:
 
 <img 
     align="left" 
@@ -21,14 +21,14 @@ Seja bem-vindo ao meu GitHub 😄
 <br/>
 <br/>
 
-## 💡 Projetos
+## Projetos
     Aqui estão alguns dos meus projetos:
 - "[Calculadora simples](https://github.com/guilhermejosue301-maker/guilhermejosue301-maker/tree/main/Projeto)
 
    
-## 📫 Como falar comigo:
+## Como falar comigo:
 - "[LinkedIn](https://www.linkedin.com/in/guilherme-josu%C3%A9-62405934b/)
 - "[Instagram](https://www.instagram.com/guilherme.josue/)
 
  
- “A melhor forma de aprender é construindo.” 🚀
+ “A melhor forma de aprender é construindo.” 
